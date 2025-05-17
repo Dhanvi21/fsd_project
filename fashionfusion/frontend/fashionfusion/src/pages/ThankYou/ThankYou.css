@@ -1,0 +1,23 @@
+.thank-you-container {
+    text-align: center;
+    padding: 4rem 2rem;
+}
+
+.thank-you-buttons {
+    margin-top: 2rem;
+}
+
+.thank-you-buttons button {
+    margin: 0 1rem;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    background-color: #222;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.thank-you-buttons button:hover {
+    background-color: #000;
+}

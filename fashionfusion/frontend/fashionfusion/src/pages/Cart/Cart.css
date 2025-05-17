@@ -1,0 +1,30 @@
+.cart-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.cart-item {
+  border-bottom: 1px solid #ccc;
+  padding: 1rem 0;
+}
+
+.cart-info {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.cart-summary {
+  text-align: right;
+  margin-top: 2rem;
+}
+
+.checkout-btn {
+  background-color: #222;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
